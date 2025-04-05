@@ -10,6 +10,7 @@ This repository contains a curated list of the best system prompts for OpenAI's 
   - [Educational](#educational)
   - [Entertainment](#entertainment)
   - [Utility](#utility)
+  - [tkz_crafted](#tkzcrafted)
   - [Others](#others)
 - [Contribute](#contribute)
 - [License](#license)
